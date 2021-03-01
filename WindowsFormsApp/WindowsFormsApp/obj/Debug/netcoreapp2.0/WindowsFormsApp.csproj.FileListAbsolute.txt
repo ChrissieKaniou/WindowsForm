@@ -1,0 +1,7 @@
+C:\Users\Chris\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\netcoreapp2.0\WindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\netcoreapp2.0\WindowsFormsApp.Form1.resources
+C:\Users\Chris\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\netcoreapp2.0\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Chris\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\netcoreapp2.0\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Chris\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\netcoreapp2.0\WindowsFormsApp.AssemblyInfoInputs.cache
+C:\Users\Chris\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\netcoreapp2.0\WindowsFormsApp.AssemblyInfo.cs
+C:\Users\Chris\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\netcoreapp2.0\WindowsFormsApp.csproj.CoreCompileInputs.cache
